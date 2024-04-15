@@ -1,0 +1,33 @@
+body{
+    background-color: #CAD2C6 !important;
+}
+
+header{
+    color:white !important;
+    background-color: #0D2635;
+}
+img{
+    width:50px;
+    height:50px;
+}
+.bg
+{
+    background-color: #343434;
+}
+.sec
+{
+     height: 150px; border-radius: 20px;
+}
+.lastsec
+{
+    height: 200px; border-radius:20px;
+}
+.leftsec
+{
+    height: 550px; margin-bottom:20px; border-radius:20px;
+}
+.firstsec
+{
+    border-radius:10px; border:none;
+}
+
